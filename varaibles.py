@@ -1,7 +1,20 @@
 ### Variables ###
+# test = "1000"
+# test1 = "2"
+# noDeclare = ""
+# noDeclare = 2
+# do
+# print(len("This has 22 characters"))
+# print(test + test1)
+# int(test)
+# print(int("1"))
+# print(help(str))
+# #print(test + test1)
+# print(type(test))
 
-my_string_variable = "My String variable"
+'''my_string_variable = "My String variable"
 print(my_string_variable)
+
 
 my_int_variable = 5
 print(my_int_variable)
@@ -47,3 +60,4 @@ address = True
 address = 5
 address = 1.2
 print(type(address))
+'''
